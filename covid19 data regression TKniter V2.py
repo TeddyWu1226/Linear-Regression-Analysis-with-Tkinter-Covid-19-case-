@@ -115,6 +115,8 @@ DataGlobalConfirmed = tk.Label(win, text=f"Global Confirmed Cases: {format(globa
 DataGlobalConfirmed.pack()
 DataGlobalDeaths = tk.Label(win, text=f"Global Death Cases: {format(global_Deaths_List[-1],',d')}(per)", font=("Arial", 15))
 DataGlobalDeaths.pack()
+
+# 模型參數設定
 ModelSetting = tk.Label(win, text="\nPredicted Linear-Regression Model Setting", font=("Arial", 20))
 ModelSetting.pack()
 
