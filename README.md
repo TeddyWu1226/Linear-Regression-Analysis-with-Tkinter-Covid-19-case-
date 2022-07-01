@@ -12,12 +12,12 @@
 
 1.可設定線性回歸之最高次方
 
-2.可設定sklearn訓練資料大小
+2.可設定sklearn訓練資料大小(test_size)
 
 3.可設定是否suffle訓練資料
 
-4.可設定預期時長(day)
+4.可設定預測未來走向天數(days)
 
 程式執行結果如下方:
 
-![1656681315575](https://user-images.githubusercontent.com/103618758/176902050-f27bdefa-b88a-4ee0-9932-504b67a99887.jpg)
+![1656682033342](https://user-images.githubusercontent.com/103618758/176903918-76c29eff-ab85-4307-a4f1-ef5ebf81a92f.jpg)
