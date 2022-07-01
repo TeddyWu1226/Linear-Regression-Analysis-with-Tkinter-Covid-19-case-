@@ -9,7 +9,15 @@
 可觀察之資料:covid19全球累計病例數量、covid19全球累計死亡數量、covid19全球病例增長變化、covid19全球病例死亡增長變化
 
 可調整之model參數:
+
 1.可設定線性回歸之最高次方
+
 2.可設定sklearn訓練資料大小
+
 3.可設定是否suffle訓練資料
+
 4.可設定預期時長(day)
+
+程式執行結果如下方:
+
+![1656681315575](https://user-images.githubusercontent.com/103618758/176902050-f27bdefa-b88a-4ee0-9932-504b67a99887.jpg)
