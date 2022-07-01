@@ -31,17 +31,11 @@ print("time_series_covid19_deaths_global.csv資料更新")
 deaths_df = pd.read_csv(
 'https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_deaths_global.csv')
 deaths_df.to_csv("time_series_covid19_deaths_global.csv")
-
-print("04-09-2022.csv資料更新")
-latest_data = pd.read_csv(
-'https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_daily_reports/04-09-2022.csv')
-latest_data.to_csv("04-09-2022.csv")
 """
 
 # 讀取資料
 confirmed_df = pd.read_csv("time_series_covid19_confirmed_global.csv")
 deaths_df = pd.read_csv("time_series_covid19_deaths_global.csv")
-latest_data = pd.read_csv("04-09-2022.csv")
 # 檢查資料讀取情況
 # print(confirmed_df,"\n\n",deaths_df,"\n\n",latest_data)
 # 資料設定變數
