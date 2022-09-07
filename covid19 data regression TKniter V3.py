@@ -122,7 +122,7 @@ DataGlobalDeaths.pack()
 ModelSetting = tk.Label(win, text="\nPredicted Linear-Regression Model Setting", font=("Arial", 20))
 ModelSetting.pack()
 
-dataChosenBox = tk.Listbox(win,width=30,height=4,selectmode="browse")
+dataChosenBox = tk.Listbox(win,width=30,height=4,selectmode="browse",exportselection=False)
 dataChosenBox.insert(tk.END,"Daily Confirmed Cases(Cumulative)","Daily Death Cases(Cumulative)","Daily Confirmed Cases","Daily Death Cases")
 dataChosenBox.pack()
 
