@@ -18,6 +18,18 @@
 
 4.可設定預測未來走向天數(days)
 
-程式執行結果如下方:
+程式執行如下方:
 
 ![1656682033342](https://user-images.githubusercontent.com/103618758/176903918-76c29eff-ab85-4307-a4f1-ef5ebf81a92f.jpg)
+
+執行後結果:
+
+![1662562477412](https://user-images.githubusercontent.com/103618758/188911079-ad6017df-f525-4597-a37b-b4bf9e21c6f4.jpg)
+
+修改可變動之數據:
+
+![1662562610982](https://user-images.githubusercontent.com/103618758/188911164-365e3cbc-6aa4-48f3-8ab7-c3dd0c0bd845.jpg)
+
+執行後結果:
+
+![1662562622777](https://user-images.githubusercontent.com/103618758/188911210-194b1fa7-8730-46cd-b4cb-eff8ead44edb.jpg)
