@@ -1,5 +1,7 @@
 # Linear-Regression-Analysis-with-Tkinter-Covid-19-case
 
+簡單回歸分析模型操控-以COVID1-19為例
+
 線上資料來源:https://www.kaggle.com/code/therealcyberlord/coronavirus-covid-19-visualization-prediction/notebook
 
 使用模組:matplotlib,pandas,numpy,sklearn,tkinter
